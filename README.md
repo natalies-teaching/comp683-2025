@@ -21,18 +21,18 @@ Please see the following link for a syllabus and information about key dates, ho
 # Topics and Tentative Schedule. 
 I will post the precise schedule and lecture notes closer to the spring semester, but please find an outline of the course structure below. 
 
-Week 1-2 : Conceptual introduction to bioinformatics and computational biology (and their differences!), modern challenges, and linear algebra review
-Weeks 3-4 : Graphs as a data structure to handle single-cell data. Graph-based analysis of data, including, constructing graphs from data, clustering and graph partitioning, graph embedding 
-Weeks 5-7 : Single-cell preliminarys. Single-cell data structure , CyTOF, flow cytometry, differential expression, scRNA-seq background, linking cell-states to outcomes 
-Week 8: Visualization of single-cell data, trajectory inference, modeling differentiation processes
-Week 9:  Imputation and data augmentation for single-cell analysis 
-Week 10 : Graph signal processing fundamentals
-Week 11 : Differental abundance analysis. Finding key cells driving outcomes
-Week 12 : Project proposal presentations
-Week 13 : Sketching of Single-Cell data
-Week 14: Spatial technologies (imaging CyTOF), and uncovering spatial microenvironments 
-Week 15 : Graph neural networks and convex optimization techniques
-Week 16: Multiomics integration strategies 
+* Week 1-2 : Conceptual introduction to bioinformatics and computational biology (and their differences!), modern challenges, and linear algebra review
+* Weeks 3-4 : Graphs as a data structure to handle single-cell data. Graph-based analysis of data, including, constructing graphs from data, clustering and graph partitioning, graph embedding 
+* Weeks 5-7 : Single-cell preliminarys. Single-cell data structure , CyTOF, flow cytometry, differential expression, scRNA-seq background, linking cell-states to outcomes 
+* Week 8: Visualization of single-cell data, trajectory inference, modeling differentiation processes
+* Week 9:  Imputation and data augmentation for single-cell analysis 
+* Week 10 : Graph signal processing fundamentals
+* Week 11 : Differental abundance analysis. Finding key cells driving outcomes
+* Week 12 : Project proposal presentations
+* Week 13 : Sketching of Single-Cell data
+* Week 14: Spatial technologies (imaging CyTOF), and uncovering spatial microenvironments 
+* Week 15 : Graph neural networks and convex optimization techniques
+* Week 16: Multiomics integration strategies 
 <!---
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
