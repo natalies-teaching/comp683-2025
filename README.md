@@ -1,2 +1,2 @@
-# comp683-2025
-Course Page for Comp683, Spring 2025
+# Comp683- Computational Biology, Spring 2025. 
+
