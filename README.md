@@ -1,4 +1,4 @@
-# Comp683- Computational Biology, Spring 2025. 
+# COMP683- Computational Biology, Spring 2025. 
 <p>
   <img src="https://github.com/natalies-teaching/comp683-2025/blob/main/comp683-20252.png?raw=True" width="350" />
 </p>
