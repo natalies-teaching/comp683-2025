@@ -17,7 +17,7 @@ Office Hours: TBD.
 
 Summary of FAQs: 
 
-* You can take the course if you're missing pre-reqs. Just send me an email if you need help enrolling
+* You can take the course if you're missing pre-reqs. Just send me an email if you need help enrolling.
 * This course is appropriate for anyone interested in the topic. Strong programming in Python or R is needed.
 * This course is appropriate for advanced undergrads and grad students across departments.
 * This course fulfills the applications category breadth requirement for CS students.
