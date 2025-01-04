@@ -52,13 +52,31 @@ Here is a general overview of the topics for the semester.
 * Week 15 : Graph neural networks and convex optimization techniques
 * Week 16: Multiomics integration strategies
 
-  # Key Dates and Milestones
+# Key Dates and Milestones
 Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
 
 * End of February : Homework 1 due
 * Mid-march : project proposals.
 * mid-April : homework 2 due
-* end of april/ last week of class : project presentations and final writeups due. 
+* end of april/ last week of class : project presentations and final writeups due.
+* by last day of class : make sure you have completed two reading assignments by answering questions about two papers. Please find a description of the reading assignments below.
+
+# Reading Questions
+
+**Please choose 2 papers over the course of the semester to do this for, and turn them in before our class meeting 11am to natalies+comp790@cs.unc.edu**. 
+
+1) Please explain in 2 sentences or less what the problem being solved is.
+
+2) What were the main contributions of the authors in this work? (You can answer in a few bullet points). 
+
+3) Please describe 1-2 computational experiments that the authors implemented to test their method.
+
+4) Were the authors the first to attempt this particular problem? If not, did they compare their results to other baselines? Do you think that their evaluation was objective?
+
+5) Do you think that the authors provided enough evidence for why their developed method is an important contribution? If yes, please describe their reasoning here. If you do not think they adequately justified why they worked on this particular problem, please describe your thoughts on that here. 
+
+
+
   
 <!---
 | Date | Topic | Reading | Notes | Code |
