@@ -35,7 +35,7 @@ All topics, readings, homework, and lecture notes can be found here.
 
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
-|Wednesday, Jan 8 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](X)] | [[Lecture 1](https://github.com/natalies-teaching/Comp683_CompBio_2024/blob/main/Lectures/Lecture1_intro.pdf)]  | 
+|Wednesday, Jan 8 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science]((https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6))] | [[Lecture 1](https://github.com/natalies-teaching/Comp683_CompBio_2024/blob/main/Lectures/Lecture1_intro.pdf)]  | 
 
 Here is a general overview of the topics for the semester. 
 
