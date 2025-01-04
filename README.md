@@ -13,7 +13,7 @@ Time and Place: Monday/Wednesday 9:05-10:20am in Fred Brooks 007 (FB007).
 
 Info and Attributes: This is a 3-credit full-semester course and fulfills the 'Applications' category for CS students. It is a lecture-style class (I will teach the lectures) and includes two homework assignments and a course project. 
 
-Office Hours: TBD. 
+Office Hours: Mondays 1-2 in Sitterson 305. 
 
 Summary of FAQs: 
 
