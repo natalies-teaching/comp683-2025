@@ -50,7 +50,16 @@ Here is a general overview of the topics for the semester.
 * Week 13 : Sketching of Single-Cell data
 * Week 14: Spatial technologies (imaging CyTOF), and uncovering spatial microenvironments 
 * Week 15 : Graph neural networks and convex optimization techniques
-* Week 16: Multiomics integration strategies 
+* Week 16: Multiomics integration strategies
+
+  # Key Dates and Milestones
+Every year the precise timing of getting through particular topics varies. Here are some general dates to anticipate for assignments. The exact dates will be updated during the semester. 
+
+* End of February : Homework 1 due
+* Mid-march : project proposals.
+* mid-April : homework 2 due
+* end of april/ last week of class : project presentations and final writeups due. 
+  
 <!---
 | Date | Topic | Reading | Notes | Code |
 |------|-------|---------|-------|------|
