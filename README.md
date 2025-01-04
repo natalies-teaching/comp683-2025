@@ -31,7 +31,13 @@ Modern high-throughput technologies enable unparalleled molecular insights into 
 Please see the following link for a syllabus and information about key dates, homework, and the course project. [[Syllabus 2025- Coming soon](https://github.com/natalies-teaching/comp683-2025/blob/main/Syllabus_2025.pdf)]. Note that this is a lecture course with two homework assignments and a course project. 
 
 # Topics and Tentative Schedule. 
-I will post the precise schedule and lecture notes closer to the spring semester, but please find an outline of the course structure below. 
+All topics, readings, homework, and lecture notes can be found here. 
+
+| Date | Topic | Reading | Notes | Code |
+|------|-------|---------|-------|------|
+|Wednesday, Jan 8 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] | [[Lecture 1](https://github.com/natalies-teaching/Comp683_CompBio_2024/blob/main/Lectures/Lecture1_intro.pdf)]  | 
+
+Here is a general overview of the topics for the semester. 
 
 * Week 1-2 : Conceptual introduction to bioinformatics and computational biology (and their differences!), modern challenges, and linear algebra review
 * Weeks 3-4 : Graphs as a data structure to handle single-cell data. Graph-based analysis of data, including, constructing graphs from data, clustering and graph partitioning, graph embedding 
