@@ -37,6 +37,7 @@ All topics, readings, homework, and lecture notes can be found here.
 |------|-------|---------|-------|------|
 |Wednesday, Jan 8 | Intro, Bioinformatics vs Computational Biology| [[Systems Immunology, Just Getting Started](https://www.nature.com/articles/ni.3768)], [[Grand Challenges in Single-Cell Data Science](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1926-6)] | [[Lecture 1](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecuture1_intro.pdf)]  | 
 |Monday, Jan 13| Linear algrebra review, matrix rank, preparation for working with graphs| [[SLMP. pages 10-22](https://arxiv.org/abs/2004.07984)]| [[Lecture 2](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture2.pdf)] | [[graph tools for python](https://github.com/KrishnaswamyLab/graphtools)] |
+|Wednesday, Jan 15| Graph Diffusion and deriving Graph Laplacian ; Building graphs from data;| [[LargeVis](https://arxiv.org/abs/1602.00370)], [[Random Projection Trees](https://cseweb.ucsd.edu/~dasgupta/papers/rptree-stoc.pdf)] | [[Lecture 3](X)] |
 
 Here is a general overview of the topics for the semester. 
 
