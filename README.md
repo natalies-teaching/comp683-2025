@@ -45,7 +45,8 @@ All topics, readings, homework, and lecture notes can be found here.
 |Wednesday, February 7|Automated cell-population discovery via phenograph; imputation and correcting sparsity with MAGIC| [[MAGIC](https://www.biorxiv.org/content/10.1101/111591v1)]  | [[Lecture 8](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture8.pdf)] |   [[MAGIC](https://github.com/KrishnaswamyLab/MAGIC)] | 
 |Monday, February 10 | No class, Wellness day | | |  |
 |Wednesday, February 12. [[Homework 1 Assigned, due Feb 28](https://github.com/natalies-teaching/comp683-2025/tree/main/Homework1)] | Branch Preserving Visualization with PHATE; single-cell data augmentation | [[PHATE](https://www.nature.com/articles/s41587-019-0336-3)]|[[Lecture 9](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture9.pdf)] | [[Phate](https://github.com/KrishnaswamyLab/PHATE)] |
-|Monday, February 17 | Graph signal processing background ;  Differential abundance analysis with MELD | [[MELD](https://www.nature.com/articles/s41587-020-00803-5)]  | [[Lecture 10](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture10.pdf)]  |  | |
+|Monday, February 17 | Graph signal processing background ;  Differential abundance analysis with MELD | 
+|Wednesday, February 19| Differential abundance analysis with meld | [[MELD](https://www.nature.com/articles/s41587-020-00803-5)]  | [[Lecture 11](X)]  |  | |
 
 Here is a general overview of the topics for the semester. 
 
