@@ -142,7 +142,7 @@
 
 %\pagebreak
 \begin{itemize}
-\item This homework is due at 11:59pm on Friday, February 28, 2025. {\bf Please submit as a PDF} by email to \path{natalies@cs.unc.edu}. 
+\item This homework is due at 11:59pm on Friday, February 28, 2025. {\bf Please submit as a PDF} on Canvas homework 1 upload. 
 \item There are 3 data files provided for the following questions, including, \path{Levine_matrix.csv}, \path{cell_graph.edgelist}, and \path{population_names_Levine_13dim.txt}. Instructions for how to use these data will be provided in each homework problem. 
 \item Office hours are Monday at 1pm if you need help. 
 \item Please feel free to work in groups, but please write up your own independent solution. 
@@ -229,7 +229,7 @@ We will consider data from a CyTOF experiment obtained from \url{http://flowrepo
 
 We will use the implementation of node2vec available in github, \url{https://github.com/eliorc/node2vec}.  \\
 
-1) ({\bf Clustering on Node2Vec Features} (5 points)) First, use default parameters and follow the instructions in the README on the graph in \path{cell_graph.edgelist}. This will create a 128-dimensional vector for each node. Cluster the nodes based on these vectors and compare to the ground truth labels in the last column of \path{Levine_matrix.csv} using NMI. Compare your results to Problem 4, question 3. Does an embedding of the graph offer any apparent advantages in classifying cells? (hint: make sure the indices of the embedding correspond to the original nodes indices)  \\
+1) ({\bf Clustering on Node2Vec Features} (5 points)) First, use default parameters and follow the instructions in the README on the graph in \path{cell_graph.edgelist}. This will create a 128-dimensional vector for each node. Cluster the nodes based on these vectors and compare to the ground truth labels in the last column of \path{Levine_matrix.csv} using NMI. Does an embedding of the graph offer any apparent advantages in classifying cells? (hint: make sure the indices of the embedding correspond to the original nodes indices)  \\
 
 2) ({\bf Parameters, part 1} (5 points)) Try a few different values for the number of dimensions \path{--dimensions}, such that some of them are less than 128, and some of them are more than 128. Cluster cells again with the embeddings obtained in different dimensions. Again, you can compute the NMI between the cluster assignments and the ground truth labels. Comment on some observations, and show a plot of NMI plotted against the number of dimensions used. \\
 
