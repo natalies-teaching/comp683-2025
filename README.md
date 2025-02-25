@@ -48,7 +48,7 @@ All topics, readings, homework, and lecture notes can be found here.
 |Monday, February 17 | Graph signal processing background ;  Differential abundance analysis with MELD and Cydar | [[GSP review](https://arxiv.org/abs/2007.16061)] |[[Lecture 10](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture10.pdf) | 
 |Wednesday, February 19. **NO CLASS- due to weather**| |  | [ |  | |
 |Monday, February 24| Differential abundance analysis with meld | [[MELD](https://www.nature.com/articles/s41587-020-00803-5)], [[Cydar](https://www.nature.com/articles/nmeth.4295)]  | [[Lecture 11](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture11.pdf)]  |  | |
-|Wednesday, February 26| Differential Abundance Analysis with Milo, Contrastive PCA for dealing with background data| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)], [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] | [[Lecture 12](X)] |  [[Milo](https://github.com/emdann/milopy)], [[Contrastive PCA](https://github.com/abidlabs/contrastive)]  | 
+|Wednesday, February 26| Differential Abundance Analysis with Milo, Contrastive PCA for dealing with background data| [[Milo](https://www.nature.com/articles/s41587-021-01033-z)], [[Contrastive PCA](https://www.nature.com/articles/s41467-018-04608-8)] | [[Lecture 12]((https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture12.pdf)] |  [[Milo](https://github.com/emdann/milopy)], [[Contrastive PCA](https://github.com/abidlabs/contrastive)]  | 
 
 Here is a general overview of the topics for the semester. 
 
