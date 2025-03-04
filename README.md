@@ -55,7 +55,7 @@ All topics, readings, homework, and lecture notes can be found here.
 |Wednesday, March 12 | No Class- Spring Break | |   | | 
 |Monday, March 17 |Topic TBD | |   | |
 |Wednesday, March 19 | Project Proposal Presentations Day 1 | |   | | 
-|Wednesday, March 19 | Project Proposal Presentations Day 2 | |   | | 
+|Monday March, 24 | Project Proposal Presentations Day 2 | |   | | 
 
 Here is a general overview of the topics for the semester. 
 
