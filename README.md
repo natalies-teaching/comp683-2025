@@ -53,7 +53,7 @@ All topics, readings, homework, and lecture notes can be found here.
 |Wednesday, March 5, [[project proposal signup](https://docs.google.com/spreadsheets/d/1oVms1LOQiRPsuQeLAJhJqgc_mdxBSmKuBWOa-S5gdXU/edit?gid=0#gid=0)] | Finish sketching, start Trajectory inference and pseudo-time | [[Diffusion Maps for Differentiation](https://academic.oup.com/bioinformatics/article/31/18/2989/241305)], [[Original Diffusion Maps (Coifman)](https://papers.nips.cc/paper/2005/file/2a0f97f81755e2878b264adf39cba68e-Paper.pdf)] | [[Lecture 14](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture14.pdf)]  | [[Diffusion Maps -Scanpy](https://scanpy.readthedocs.io/en/latest/api/scanpy.tl.diffmap.html)], [[SLICER](https://github.com/jw156605/SLICER)] | 
 |Monday, March 10 | No Class- Spring Break | |   | | 
 |Wednesday, March 12 | No Class- Spring Break | |   | | 
-|Monday, March 17| Finish Trajectory Inference - SLICER, Single-cell imaging modalities and spatial phenptyping | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)] | [[Lecture 15](X)]  |  |
+|Monday, March 17| Finish Trajectory Inference - SLICER, Single-cell imaging modalities and spatial phenptyping | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)] | [[Lecture 15](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture14.pdf)]  |  |
 |Wednesday, March 19 | Project Proposal Presentations Day 1 | |   | | 
 |Monday March, 24 | Project Proposal Presentations Day 2 | |   | | 
 
