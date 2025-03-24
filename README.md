@@ -56,7 +56,7 @@ All topics, readings, homework, and lecture notes can be found here.
 |Monday, March 17| Finish Trajectory Inference - SLICER, Single-cell imaging modalities and spatial phenptyping | [[LEAPH](https://www.cell.com/cell-reports-methods/pdfExtended/S2667-2375(21)00124-7)], [[SLICER-developed at UNC](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0975-3)] | [[Lecture 15](https://github.com/natalies-teaching/comp683-2025/blob/main/Lectures/Lecture15.pdf)]  |  |
 |Wednesday, March 19 | Project Proposal Presentations Day 1 | |   | | 
 |Monday March, 24 | Project Proposal Presentations Day 2 | |   | | 
-|Wednesday, Marchh 26| Spatial Phenotyping with LEAPH; Pixel-level clustering (PIXIE) in IMC images; Start Graph neural networks  | [[Pixie](https://www.biorxiv.org/content/10.1101/2022.08.16.504171v1.abstract)] | [[Lecture 17](https://github.com/natalies-teaching/Comp683_CompBio_2024/blob/main/Lectures/Lecture17.pdf)]   | [[Pixie](https://github.com/angelolab/ark-analysis)]  | 
+|Wednesday, Marchh 26| Spatial Phenotyping with LEAPH; Pixel-level clustering (PIXIE) in IMC images; Start Graph neural networks  | [[Pixie](https://www.biorxiv.org/content/10.1101/2022.08.16.504171v1.abstract)] | [[Lecture 17](X)]   | [[Pixie](https://github.com/angelolab/ark-analysis)]  | 
 
 Here is a general overview of the topics for the semester. 
 
