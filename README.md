@@ -89,7 +89,7 @@ Every year the precise timing of getting through particular topics varies. Here 
 
 # Reading Questions
 
-**Please choose 2 papers over the course of the semester to do this for, and turn them in before our class meeting 11am to natalies+comp790@cs.unc.edu**. 
+**Please choose 2 papers over the course of the semester to do this for, and turn them in to natalies+comp790@cs.unc.edu**. 
 
 1) Please explain in 2 sentences or less what the problem being solved is.
 
